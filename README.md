@@ -158,8 +158,8 @@ Real-time detection system built for public health monitoring scenarios.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakgnatleazim&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=cccccc" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakgnatleazim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=cccccc" height="165"/>
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/top-langs.svg" height="165"/>
 
 <br/>
 
