@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Informatics+Engineering+Student;Building+SignVision-AI+%F0%9F%96%90%EF%B8%8F;Turning+Python+Models+into+Live+Products;Data+%2B+Vision+%2B+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Informatics+Engineering+Student;Building+SignVision-AI;Turning+Python+Models+into+Live+Products;Data+%2B+Vision+%2B+Code" alt="Typing SVG" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-## 🖤 About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png" width="22"/> About Me
 
 ```yaml
 name:        Mizael Kurion Tangkas
@@ -39,7 +39,7 @@ fun_fact:    "I turn Python models into live, browser-based products"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-## ⚙️ Tech Stack
+## <img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="22"/> Tech Stack
 
 <div align="center">
 
@@ -96,13 +96,13 @@ fun_fact:    "I turn Python models into live, browser-based products"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-## 🚀 Featured Projects
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="22"/> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖐️ [SignVision-AI](https://github.com/sakgnatleazim/SignVision-AI)
+### <img src="https://cdn-icons-png.flaticon.com/512/2593/2593631.png" width="18"/> [SignVision-AI](https://github.com/sakgnatleazim/SignVision-AI)
 **Real-time sign language recognition**
 
 Browser-based recognition using MediaPipe Hands for landmark extraction and a FastAPI backend for inference — with prediction smoothing, confidence filtering, and Text-to-Speech output.
@@ -112,7 +112,7 @@ Browser-based recognition using MediaPipe Hands for landmark extraction and a Fa
 </td>
 <td width="50%" valign="top">
 
-### 🌧️ Rainfall Prediction Model
+### <img src="https://cdn-icons-png.flaticon.com/512/1146/1146869.png" width="18"/> Rainfall Prediction Model
 **LSTM time-series forecasting**
 
 LSTM-based rainfall prediction with full preprocessing pipeline and evaluation on the Seattle Weather dataset.
@@ -124,7 +124,7 @@ LSTM-based rainfall prediction with full preprocessing pipeline and evaluation o
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [Multi-Attribute Detection](https://github.com/sakgnatleazim/yolov5-multi-attribute-detection)
+### <img src="https://cdn-icons-png.flaticon.com/512/2172/2172358.png" width="18"/> [Multi-Attribute Detection](https://github.com/sakgnatleazim/yolov5-multi-attribute-detection)
 **YOLOv5 computer vision**
 
 Real-time object detection with age–gender classification, optimized for accuracy and inference speed.
@@ -134,7 +134,7 @@ Real-time object detection with age–gender classification, optimized for accur
 </td>
 <td width="50%" valign="top">
 
-### 😷 Real-Time Face Mask Detection
+### <img src="https://cdn-icons-png.flaticon.com/512/2913/2913133.png" width="18"/> Real-Time Face Mask Detection
 **YOLOv5 public health monitoring**
 
 Real-time detection system built for public health monitoring scenarios.
@@ -147,14 +147,14 @@ Real-time detection system built for public health monitoring scenarios.
 
 <div align="center">
 
-### 🌐 [Portfolio Website →](https://portfolio-mizael.vercel.app)
+### <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20"/> [Portfolio Website →](https://portfolio-mizael.vercel.app)
 *A live showcase of my data analytics and development work*
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-## 📊 GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="22"/> GitHub Stats
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Real-time detection system built for public health monitoring scenarios.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
-## 🏆 Certifications
+## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="22"/> Certifications
 
 <div align="center">
 
@@ -191,11 +191,9 @@ Real-time detection system built for public health monitoring scenarios.
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### <img src="https://cdn-icons-png.flaticon.com/512/6134/6134065.png" width="20"/> Contribution Snake
 
 <img src="https://raw.githubusercontent.com/sakgnatleazim/sakgnatleazim/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>*(Requires a one-time GitHub Action setup — see notes below)*</sub>
 
 <br/><br/>
 
